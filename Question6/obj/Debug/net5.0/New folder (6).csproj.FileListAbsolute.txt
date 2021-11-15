@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\bin\Debug\net5.0\New folder (6).exe
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\bin\Debug\net5.0\New folder (6).deps.json
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\bin\Debug\net5.0\New folder (6).runtimeconfig.json
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\bin\Debug\net5.0\New folder (6).runtimeconfig.dev.json
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\bin\Debug\net5.0\New folder (6).dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\bin\Debug\net5.0\ref\New folder (6).dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\bin\Debug\net5.0\New folder (6).pdb
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\obj\Debug\net5.0\New folder (6).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\obj\Debug\net5.0\New folder (6).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\obj\Debug\net5.0\New folder (6).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\obj\Debug\net5.0\New folder (6).AssemblyInfo.cs
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\obj\Debug\net5.0\New folder (6).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\obj\Debug\net5.0\New folder (6).dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\obj\Debug\net5.0\ref\New folder (6).dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\obj\Debug\net5.0\New folder (6).pdb
+C:\Users\user\Desktop\Chapter6,Questions1to18\New folder (6)\obj\Debug\net5.0\New folder (6).genruntimeconfig.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\bin\Debug\net5.0\New folder (6).exe
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\bin\Debug\net5.0\New folder (6).deps.json
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\bin\Debug\net5.0\New folder (6).runtimeconfig.json
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\bin\Debug\net5.0\New folder (6).runtimeconfig.dev.json
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\bin\Debug\net5.0\New folder (6).dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\bin\Debug\net5.0\ref\New folder (6).dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\bin\Debug\net5.0\New folder (6).pdb
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\obj\Debug\net5.0\New folder (6).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\obj\Debug\net5.0\New folder (6).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\obj\Debug\net5.0\New folder (6).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\obj\Debug\net5.0\New folder (6).AssemblyInfo.cs
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\obj\Debug\net5.0\New folder (6).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\obj\Debug\net5.0\New folder (6).dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\obj\Debug\net5.0\ref\New folder (6).dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\obj\Debug\net5.0\New folder (6).pdb
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question6\obj\Debug\net5.0\New folder (6).genruntimeconfig.cache

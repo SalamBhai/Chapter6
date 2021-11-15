@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\bin\Debug\net5.0\Question3.exe
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\bin\Debug\net5.0\Question3.deps.json
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\bin\Debug\net5.0\Question3.runtimeconfig.json
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\bin\Debug\net5.0\Question3.runtimeconfig.dev.json
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\bin\Debug\net5.0\Question3.dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\bin\Debug\net5.0\ref\Question3.dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\bin\Debug\net5.0\Question3.pdb
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\obj\Debug\net5.0\Question3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\obj\Debug\net5.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\obj\Debug\net5.0\Question3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\obj\Debug\net5.0\Question3.AssemblyInfo.cs
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\obj\Debug\net5.0\Question3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\obj\Debug\net5.0\Question3.dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\obj\Debug\net5.0\ref\Question3.dll
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\obj\Debug\net5.0\Question3.pdb
+C:\Users\user\Desktop\Chapter6,Questions1to18\Question3\obj\Debug\net5.0\Question3.genruntimeconfig.cache
